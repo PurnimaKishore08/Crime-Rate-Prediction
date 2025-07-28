@@ -18,9 +18,10 @@ An interactive and intelligent web-based dashboard to **analyze, visualize, and 
 
 ## 📷 Demo
 
-![App Screenshot](demo.gif) <!-- Optional: Insert GIF or image -->
+[![App Screenshot](demo.gif) <!-- Optional: Insert GIF or image -->](https://crime-rate-prediction-rjvoqo4anvzwg8m9g589vw.streamlit.app/)
 
 ---
+
 
 ## 🧠 Tech Stack
 
