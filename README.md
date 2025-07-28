@@ -70,30 +70,20 @@ crime-rate-prediction/
 
 4. ## Upload your CSV and explore insights!
 
-🌍 Deployment (Streamlit Cloud)
+5. ## 🌍 Deployment (Streamlit Cloud)
 Push your project to GitHub
 
 Go to https://share.streamlit.io
-
 Select your repo > choose app.py > Deploy 🚀
-
 Share the generated link with others!
 
-📱 Mobile Friendly?
+## 📱 Mobile Friendly?
 Yes! The dashboard is responsive and looks good on both desktop and mobile screens.
 
-💡 Use Cases
+## 💡 Use Cases
 Academic AI/ML projects
-
 Government crime analysis
-
 Data journalism
-
 Law enforcement analytics
-
 Research & policy making
 
-🙋‍♀️ Author
-Purnima Kishore
-🎓 B.Tech | AIML Student
-📫 Your Email or LinkedIn
